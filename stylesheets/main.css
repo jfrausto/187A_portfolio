@@ -5,11 +5,34 @@
  *
  * */
 
+body {
+    font-family: "Times New Roman", Times, serif;
+    color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Times New Roman", Times, serif;
+    color: #FFFFFF;
+}
+
+
 #banner {
-    background-image: url(../images/banner.JPG);
+    background-image: url(../images/GBnews.jpg);
+    width: 960px;
+    height: 200px;
     
+}
+
+
+#aboutme {
+    background-color: #574F4E;
     
-    
-    
-    
+}
+
+#navbar {
+    background-color: #000000;
+}
+
+#contact {
+    background-color: #000000;
 }
