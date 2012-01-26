@@ -35,7 +35,7 @@ a:active {
     
 }
 
-#pop {
+#pop, #pop2 {
     color: #F1E611;
 }
 
@@ -44,11 +44,7 @@ a:active {
     
 }
 
-#aboutme2 {
-    background-color: #574F4E;
-}
-
-#projects {
+#aboutme2, #projects0, #projects1, #projects2, #galleryTitle {
     background-color: #574F4E;
 }
 
