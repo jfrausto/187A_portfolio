@@ -23,10 +23,17 @@ h1, h2, h3, h4, h5 {
     
 }
 
+#pop {
+    color: #F1E611;
+}
 
 #aboutme {
     background-color: #574F4E;
     
+}
+
+#aboutme2 {
+    background-color: #574F4E;
 }
 
 #navbar {
