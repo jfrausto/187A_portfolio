@@ -1,5 +1,6 @@
 /*!
- *
+ * Jesse Frausto
+ * 
  * simple CSS style adjustments for my own digital portfolio
  *
  *
@@ -15,6 +16,17 @@ h1, h2, h3, h4, h5 {
     color: #FFFFFF;
 }
 
+a:link, a:visited {
+    color: #FFFFFF;
+}
+
+a:hover {
+    color: #F1E611;
+}
+
+a:active {
+    background-color: #F1E611;
+}
 
 #banner {
     background-image: url(../images/GBnews.jpg);
@@ -33,6 +45,10 @@ h1, h2, h3, h4, h5 {
 }
 
 #aboutme2 {
+    background-color: #574F4E;
+}
+
+#projects {
     background-color: #574F4E;
 }
 
